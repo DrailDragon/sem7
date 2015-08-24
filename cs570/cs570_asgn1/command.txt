@@ -1,0 +1,2 @@
+apt-get -y --force-yes install --reinstall $pkg
+http://askubuntu.com/questions/324202/dpkg-error-processing-python-minimal-configure
